@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A82A375E217B5E6400D55C08 /* LOG INViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A82A375D217B5E6400D55C08 /* LOG INViewController.swift */; };
+		A82A3760217B5F0100D55C08 /* Create a facebook accoutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A82A375F217B5F0100D55C08 /* Create a facebook accoutViewController.swift */; };
+		A82A3762217B5F4100D55C08 /* Home ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A82A3761217B5F4100D55C08 /* Home ViewController.swift */; };
 		A8DFF5022178EC170044A786 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8DFF5012178EC170044A786 /* AppDelegate.swift */; };
 		A8DFF5042178EC170044A786 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8DFF5032178EC170044A786 /* ViewController.swift */; };
 		A8DFF5072178EC170044A786 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8DFF5052178EC170044A786 /* Main.storyboard */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A82A375D217B5E6400D55C08 /* LOG INViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LOG INViewController.swift"; sourceTree = "<group>"; };
+		A82A375F217B5F0100D55C08 /* Create a facebook accoutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Create a facebook accoutViewController.swift"; sourceTree = "<group>"; };
+		A82A3761217B5F4100D55C08 /* Home ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Home ViewController.swift"; sourceTree = "<group>"; };
 		A8DFF4FE2178EC170044A786 /* login Facebook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "login Facebook.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8DFF5012178EC170044A786 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A8DFF5032178EC170044A786 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +69,9 @@
 				A8DFF50D2178EC170044A786 /* LaunchScreen.storyboard */,
 				A8DFF5102178EC170044A786 /* Info.plist */,
 				A8DFF5082178EC170044A786 /* login_Facebook.xcdatamodeld */,
+				A82A375D217B5E6400D55C08 /* LOG INViewController.swift */,
+				A82A375F217B5F0100D55C08 /* Create a facebook accoutViewController.swift */,
+				A82A3761217B5F4100D55C08 /* Home ViewController.swift */,
 			);
 			path = "login Facebook";
 			sourceTree = "<group>";
@@ -139,7 +148,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A82A3762217B5F4100D55C08 /* Home ViewController.swift in Sources */,
+				A82A3760217B5F0100D55C08 /* Create a facebook accoutViewController.swift in Sources */,
 				A8DFF50A2178EC170044A786 /* login_Facebook.xcdatamodeld in Sources */,
+				A82A375E217B5E6400D55C08 /* LOG INViewController.swift in Sources */,
 				A8DFF5042178EC170044A786 /* ViewController.swift in Sources */,
 				A8DFF5022178EC170044A786 /* AppDelegate.swift in Sources */,
 			);
